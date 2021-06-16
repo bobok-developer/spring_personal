@@ -16,6 +16,6 @@ https://www.slideshare.net/secret/L2W37FUNLmztop
 <br>
 
 2. 게시판
-- 게시글 CRUD- 비밀글 작성 가능
+- 게시글 CRUD- 비밀글 작성 가능, 게시글 목록에 대한 페이징 처리, 키워드로 검색 가능
 - 파일첨부 (Ajax)
 - 게시글에 대한 댓글 CRUD (Ajax)
